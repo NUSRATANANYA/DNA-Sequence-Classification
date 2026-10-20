@@ -1,4 +1,4 @@
-Comparative Evaluation of Traditional Machine Learning and Deep Learning Models for DNA Sequence Classification
+Title: Comparative Evaluation of Traditional Machine Learning and Deep Learning Models for DNA Sequence Classification
 
 Overview
 
