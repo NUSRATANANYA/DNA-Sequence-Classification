@@ -74,11 +74,14 @@ Experimental Results
 
 Results on the selected test split:
 
-Model| Accuracy| Macro Precision| Macro Recall| Macro F1-score| Macro ROC-AUC
-Naive Bayes| 0.6550| 0.6701| 0.6605| 0.6489| 0.8765
-SVM| 0.9434| 0.9476| 0.9420| 0.9446| 0.9924
-XGBoost| 0.9339| 0.9533| 0.9198| 0.9348| 0.9964
-1D CNN| 0.8635| 0.8708| 0.8440| 0.8527| 0.9806
+## Experimental Results
+
+| Model | Accuracy | Macro Precision | Macro Recall | Macro F1-score | Macro ROC-AUC |
+|---|---:|---:|---:|---:|---:|
+| Naive Bayes | 0.6550 | 0.6701 | 0.6605 | 0.6489 | 0.8765 |
+| SVM | 0.9434 | 0.9476 | 0.9420 | 0.9446 | 0.9924 |
+| XGBoost | 0.9339 | 0.9533 | 0.9198 | 0.9348 | 0.9964 |
+| 1D CNN | 0.8635 | 0.8708 | 0.8440 | 0.8527 | 0.9806 |
 
 Main Findings
 
