@@ -34,13 +34,17 @@ Work Completed
 
 Dataset Summary
 
-Description| Value
-Dataset source| Kaggle
-Combined records| 6,882
-Training records| 5,505
-Test records| 1,377
-Training/testing split| 80:20
-Number of target classes| 7
+- Dataset Source: Kaggle
+
+- Combined Records: 6,882
+
+- Training Records: 5,505
+
+- Test Records: 1,377
+
+- Training/Testing Split: 80:20
+
+- Number of Target Classes: 7
 
 Target Classes
 
@@ -54,11 +58,13 @@ Target Classes
 
 Models and Feature Representation
 
-Model| Feature Representation
-Multinomial Naive Bayes| K-mer count features
-SVM| K-mer count features, with k = 3, 4, 5, and 6
-XGBoost| K-mer count features
-1D CNN| One-hot-encoded DNA sequences
+- Multinomial Naive Bayes: k-mer count features
+
+- SVM: k-mer count features (k = 3, 4, 5, and 6)
+
+- XGBoost: k-mer count features
+
+- 1D CNN: One-hot-encoded DNA sequences
 
 Workflow
 
